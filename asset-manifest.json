@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/UdemyReactMonster/static/css/main.f4138f82.chunk.css",
+    "main.js": "/UdemyReactMonster/static/js/main.b71fd381.chunk.js",
+    "main.js.map": "/UdemyReactMonster/static/js/main.b71fd381.chunk.js.map",
+    "runtime-main.js": "/UdemyReactMonster/static/js/runtime-main.5b5b57e5.js",
+    "runtime-main.js.map": "/UdemyReactMonster/static/js/runtime-main.5b5b57e5.js.map",
+    "static/js/2.81ae2472.chunk.js": "/UdemyReactMonster/static/js/2.81ae2472.chunk.js",
+    "static/js/2.81ae2472.chunk.js.map": "/UdemyReactMonster/static/js/2.81ae2472.chunk.js.map",
+    "static/js/3.6192c455.chunk.js": "/UdemyReactMonster/static/js/3.6192c455.chunk.js",
+    "static/js/3.6192c455.chunk.js.map": "/UdemyReactMonster/static/js/3.6192c455.chunk.js.map",
+    "index.html": "/UdemyReactMonster/index.html",
+    "static/css/main.f4138f82.chunk.css.map": "/UdemyReactMonster/static/css/main.f4138f82.chunk.css.map",
+    "static/js/2.81ae2472.chunk.js.LICENSE.txt": "/UdemyReactMonster/static/js/2.81ae2472.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/UdemyReactMonster/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b5b57e5.js",
+    "static/js/2.81ae2472.chunk.js",
+    "static/css/main.f4138f82.chunk.css",
+    "static/js/main.b71fd381.chunk.js"
+  ]
+}
